@@ -1,0 +1,3 @@
+Host *
+addkeystoagent yes
+IdentityFile /z/tdp/ssh/.ssh
